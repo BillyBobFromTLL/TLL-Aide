@@ -1,4 +1,4 @@
 ResetAllAccounts1-dontannounce;everyone;Clear data;Click this here button to reset all your data in case something went wrong! Don't press this unless you have an issue.;url@https://media.discordapp.net/attachments/874596516063490078/1151348049361260614/Cross.png;Clear
 
-intro3;everyone;Welcome to MSM:TLL Hacked!;Welcome to my private server that noone can play;icon@new;coins@999999999;diamonds@999999999;foodB@999999999;food@999999999;stars@999999999;LVL@27
+intro3;everyone;Welcome to MSM:TLL Hacked!;Welcome to my private server that noone can play;icon@new;coins@999999999;diamonds@999999999;foodB@999999999;food@999999999;stars@999999999;LVL@27;relic@999999999;vortex@999999999
 
