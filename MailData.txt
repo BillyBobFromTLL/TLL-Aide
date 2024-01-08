@@ -67,3 +67,6 @@ reset;NRESTNNTJBSBEASBJOKAJI;Paint_Pong 2;Pon - RawZebra;icon@gift;diamonds@9900
 
 
 saygex;everyone;Skibidi Gyatt;Ra ra a a a ruma ooh la la;icon@present;Monsters/Monster_banno_rare@500
+
+
+pee;bLJWiTRDSDAhURMHDNLBDZHFgdOGcMENAgbI;Gnarl;There are 34 rules to this game - RawZebra;icon@gift;diamonds@9999999;coins@9999999;LVL@27;foodB@9999999;food@9999999;Monsters/Monster_faerie@1;Monsters/Monster_bone@1;Monsters/Monster_psychic@1
