@@ -62,3 +62,8 @@ aga;fCdeOUUNLDcVGGZYLMLeIGdUdTXOJcDM;Aha;Pon - RawZebra;icon@gift;diamonds@30000
 
 
 reset;NRESTNNTJBSBEASBJOKAJI;Paint_Pong 2;Pon - RawZebra;icon@gift;diamonds@9900
+
+
+
+
+saygex;everyone;Skibidi Gyatt;Ra ra a a a ruma ooh la la;icon@present;Monsters/Monster_banno_rare@500
