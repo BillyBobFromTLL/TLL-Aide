@@ -72,3 +72,5 @@ saygex;everyone;Skibidi Gyatt;Ra ra a a a ruma ooh la la;icon@present;Monsters/M
 pee;bLJWiTRDSDAhURMHDNLBDZHFgdOGcMENAgbI;Gnarl;There are 34 rules to this game - RawZebra;icon@gift;diamonds@9999999;coins@9999999;LVL@27;foodB@9999999;food@9999999;Monsters/Monster_faerie@1;Monsters/Monster_bone@1;Monsters/Monster_psychic@1
 
 pee2;bLJWiTRDSDAhURMHDNLBDZHFgdOGcMENAgbI;Jam;jam boring;icon@gift;vortex@9999999;Monsters/Monster_jamboree_undof@100;
+
+pee3;bLJWiTRDSDAhURMHDNLBDZHFgdOGcMENAgbI;Jammmie;jam boring;icon@gift;Monsters/Monster_jamboree_undof@200;Monsters/Monster_dragong_dream@1
